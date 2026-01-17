@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/cleanframe/__init__.py
+src/cleanframe/utils.py
+src/cleanframe.egg-info/PKG-INFO
+src/cleanframe.egg-info/SOURCES.txt
+src/cleanframe.egg-info/dependency_links.txt
+src/cleanframe.egg-info/top_level.txt
+tests/test_utils.py
