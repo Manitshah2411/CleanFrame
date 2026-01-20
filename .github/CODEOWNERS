@@ -1,0 +1,15 @@
+# Global owners (default reviewers)
+* @Manitshah2411
+
+# CI and GitHub config
+.github/ @Manitshah2411
+
+# Core source code
+src/ @Manitshah2411
+
+# Tests
+tests/ @Manitshah2411
+
+# Documentation
+README.md @Manitshah2411
+CONTRIBUTING.md @Manitshah2411
